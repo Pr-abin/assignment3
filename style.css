@@ -1,0 +1,26 @@
+body{
+    background-image: url("R.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    padding-bottom: 400px;
+}
+
+div.card1{
+    width: 500px;
+    text-align: right;
+    border: 5px solid pink;
+}
+
+div.text{
+    padding: 1px;
+    background-color: brown;
+    width: 500px;
+    text-align: center;
+    border: 5px solid;
+    
+}
+p{
+    text-align: justify;
+}
